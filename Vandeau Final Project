@@ -1,0 +1,22 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+file_path = "../input/movies.csv"
+df = pd.read_csv(file_path)
+
+fig, ax = plt.subplots(figsize=(10, 6))
+ax.axis('off')  
+
+table_data = df[['User_ID', 'Movie_ID', 'Movie_Name', 'Genre', 'Rating']]
+table = ax.table(cellText=table_data.values,
+                 colLabels=table_data.columns,
+                 cellLoc='center',
+                 loc='bottom')
+
+table.auto_set_font_size(False)
+table.set_fontsize(10)
+table.scale(1.2, 1.2)  
+
+plt.suptitle('Raw Data Table', y=0.15, fontsize=16, ha='center')
+
+plt.show()
