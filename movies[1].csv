@@ -1,0 +1,63 @@
+User_ID,Movie_ID,Movie_Name,Genre,Rating
+1,101,The Shawshank Redemption,Drama,4
+1,102,The Godfather,Crime,3
+1,103,The Dark Knight,Action,5
+2,104,Pulp Fiction,Crime,3
+2,105,Forrest Gump,Drama,4
+3,106,Inception,Sci-Fi,4
+3,107,The Matrix,Sci-Fi,5
+3,108,Titanic,Romance,2
+4,109,Interstellar,Sci-Fi,5
+4,110,Gladiator,Action,4
+5,111,The Silence of the Lambs,Thriller,5
+5,112,The Departed,Crime,4
+6,113,Fight Club,Drama,3
+6,114,Se7en,Thriller,4
+7,115,The Lion King,Animation,5
+7,116,Toy Story,Animation,4
+8,117,Shutter Island,Thriller,3
+8,118,Gone Girl,Thriller,4
+9,119,The Prestige,Drama,5
+9,120,The Notebook,Romance,3
+10,121,Avatar,Sci-Fi,4
+10,122,The Revenant,Adventure,5
+11,123,Braveheart,Drama,4
+11,124,The Green Mile,Drama,5
+12,125,The Terminator,Sci-Fi,3
+12,126,Die Hard,Action,4
+13,127,La La Land,Musical,5
+13,128,Mamma Mia!,Musical,4
+14,129,The Bourne Identity,Action,3
+14,130,Casino Royale,Action,5
+15,131,The Big Lebowski,Comedy,4
+15,132,Anchorman,Comedy,3
+16,133,The Exorcist,Horror,5
+16,134,The Shining,Horror,4
+17,135,Jurassic Park,Adventure,3
+17,136,Jaws,Adventure,4
+18,137,The Hangover,Comedy,5
+18,138,Superbad,Comedy,3
+19,139,Black Swan,Drama,4
+19,140,A Star Is Born,Drama,5
+20,141,The Sixth Sense,Thriller,3
+20,142,Psycho,Thriller,4
+21,143,The Avengers,Action,5
+21,144,Iron Man,Action,4
+22,145,The Grand Budapest Hotel,Comedy,5
+22,146,Zombieland,Comedy,4
+23,147,The Wizard of Oz,Fantasy,5
+23,148,Harry Potter,Fantasy,4
+24,149,The Princess Bride,Adventure,5
+24,150,Indiana Jones,Adventure,4
+25,151,The Godfather Part II,Crime,5
+25,152,The Departed,Crime,4
+26,153,The Social Network,Drama,5
+26,154,Moneyball,Drama,4
+27,155,The Pursuit of Happyness,Drama,5
+27,156,A Beautiful Mind,Drama,4
+28,157,Jumanji,Adventure,5
+28,158,Pirates of the Caribbean,Adventure,4
+29,159,The Breakfast Club,Comedy,5
+29,160,Ferris Bueller's Day Off,Comedy,4
+30,161,E.T. the Extra-Terrestrial,Sci-Fi,5
+30,162,Close Encounters of the Third Kind,Sci-Fi,4
