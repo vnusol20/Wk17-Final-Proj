@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-file_path = '/kaggle/working/'
+file_path = '/kaggle/input/movies/movies.csv'
 df = pd.read_csv(file_path)
 
 fig, ax = plt.subplots(figsize=(10, 6))
